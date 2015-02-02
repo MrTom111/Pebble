@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "thomas.grzyb@gmx.de",
+    "longName": "Pebblematic",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pebble.png",
+                "name": "pebbles",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Pebblematic",
+    "uuid": "40d56d72-3210-4d68-a185-d1bdb069173e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
